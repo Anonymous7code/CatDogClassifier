@@ -37,7 +37,9 @@ To deploy this project run
 ## Screenshots
 
 <img src="https://github.com/Anonymous7code/CatDogClassifier/blob/master/screenshots/Screenshot_20210810-224124.jpg" alt="ss" title="A cute kitten" width="210" height="420" />
+
 <img src="https://github.com/Anonymous7code/CatDogClassifier/blob/master/screenshots/Screenshot_20210810-225508.jpg" alt="ss" title="A cute kitten" width="210" height="420" />
+
 <img src="https://github.com/Anonymous7code/CatDogClassifier/blob/master/screenshots/Screenshot_20210810-225516.jpg" alt="ss" title="A cute kitten" width="210" height="420" />
 
   
