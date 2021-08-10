@@ -36,7 +36,7 @@ To deploy this project run
   
 ## Screenshots
 
-![App Screenshot](https://github.com/Anonymous7code/CatDogClassifier/blob/master/screenshots/Screenshot_20210810-224124.jpg = 250x250) 
+![App Screenshot](https://github.com/Anonymous7code/CatDogClassifier/blob/master/screenshots/Screenshot_20210810-224124.jpg)
 
   
 ## Tech Stack
