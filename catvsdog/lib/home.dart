@@ -76,20 +76,22 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Cat Dog Detection'),
+        title: Text(''),
+        elevation: 0.0,
+        backgroundColor: Colors.blueGrey,
       ),
-      backgroundColor: Colors.green,
+      backgroundColor: Colors.blueGrey,
       body: Container(
         padding: EdgeInsets.symmetric(horizontal: 24.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             SizedBox(
-              height: 50.0,
+              height: 20.0,
             ),
             Text(
               'Anonymous7Code',
-              style: TextStyle(color: Colors.white, fontSize: 20.0),
+              style: TextStyle(color: Colors.amberAccent, fontSize: 10.0),
             ),
             SizedBox(
               height: 5.0,
@@ -97,7 +99,7 @@ class _HomeState extends State<Home> {
             Text(
               'Cats and Dogs Classifier',
               style: TextStyle(
-                  color: Colors.black,
+                  color: Colors.white,
                   fontWeight: FontWeight.w500,
                   fontSize: 30.0),
             ),

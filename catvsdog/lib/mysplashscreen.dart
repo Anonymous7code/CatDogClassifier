@@ -14,7 +14,7 @@ class _MySplashScreenState extends State<MySplashScreen> {
   @override
   Widget build(BuildContext context) {
     return SplashScreen(
-      seconds: 5,
+      seconds: 3,
       navigateAfterSeconds: Home(),
       title: Text(
         'Cat and Dog Classifier',
