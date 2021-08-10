@@ -27,7 +27,6 @@ class _MySplashScreenState extends State<MySplashScreen> {
       backgroundColor: Colors.blueAccent,
       photoSize: 80.0,
       loaderColor: Colors.white,
-      
     );
   }
 }
